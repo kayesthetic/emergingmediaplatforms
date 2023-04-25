@@ -1,0 +1,27 @@
+body {
+  font-family: Montserrat;
+  background-color: #D8D8D8;
+}
+
+p {
+  font-family: Garamond;
+  font-size: 18px;
+  color: #585858;
+}
+
+li {
+  color: #ffffff;
+}
+
+h1 {
+  font-family: Avenir;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.fancy {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 30px;
+  color: #ffffff
+}
+
